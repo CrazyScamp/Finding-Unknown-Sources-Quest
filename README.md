@@ -1,2 +1,13 @@
 # Finding-Unknown-Sources-(Quest)
-Where to locate Unknown Sources on your Quest
+---
+Search Filter: 
+---
+1. Open your app library
+2. Click the search/filter dropdown in the top right corner
+3. Select "Unknown Sources".
+
+---
+Library Sidebar:
+---
+Look to left-hand menu in the apps library for a specific "Unknown Sources" icon (folder with a question mark).
+
