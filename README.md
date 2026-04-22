@@ -11,3 +11,8 @@ Library Sidebar:
 ---
 Look to left-hand menu in the apps library for a specific "Unknown Sources" icon (folder with a question mark).
 
+
+
+
+This video demonstrates where to find the Unknown Sources folder in the new UI:
+
