@@ -19,8 +19,8 @@ Look to left-hand menu in the apps library for a specific "Unknown Sources" icon
 ## How To Video
 <br>
 This video demonstrates where to find the Unknown Sources folder in the new UI
-<br>
-<br>
+
+---
 
 https://github.com/user-attachments/assets/d016292b-64c9-4e09-bb31-54e52796a184
 
