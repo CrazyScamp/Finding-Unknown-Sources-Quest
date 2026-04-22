@@ -1,5 +1,5 @@
 # Finding-Unknown-Sources-(Quest)
----
+
 Search Filter: 
 ---
 1. Open your app library
@@ -10,9 +10,10 @@ Search Filter: 
 Library Sidebar:
 ---
 Look to left-hand menu in the apps library for a specific "Unknown Sources" icon (folder with a question mark).
-<br
+
 
 ## How To Video
+---
 
 This video demonstrates where to find the Unknown Sources folder in the new UI:
 
