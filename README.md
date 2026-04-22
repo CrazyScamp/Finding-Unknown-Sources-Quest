@@ -10,10 +10,12 @@ Search Filter: 
 
 3. Select "Unknown Sources".
 
+
 ---
 Library Sidebar:
 ---
 Look to left-hand menu in the apps library for a specific "Unknown Sources" icon (folder with a question mark).
+
 
 
 ## How To Video
