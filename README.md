@@ -2,8 +2,8 @@
 
 Search Filter: 
 ---
-1. Open your app library
-2. Click the search/filter dropdown in the top right corner
+1. Open your app library <br>
+2. Click the search/filter dropdown in the top right corner <br>
 3. Select "Unknown Sources".
 
 ---
