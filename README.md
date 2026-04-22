@@ -1,3 +1,5 @@
+
+
 ## Finding Unknown Sources (Quest)
 
 Search Filter: 
@@ -18,3 +20,7 @@ Look to left-hand menu in the apps library for a specific "Unknown Sources" icon
 <br>
 This video demonstrates where to find the Unknown Sources folder in the new UI:
 
+
+
+
+https://github.com/user-attachments/assets/65348441-b458-4c0f-b5d0-a5bf6d9aaaa6
